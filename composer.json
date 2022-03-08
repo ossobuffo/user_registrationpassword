@@ -1,0 +1,10 @@
+{
+    "name": "ossobuffo/user_registrationpassword",
+    "description": "Lets Drupal users register with a password on the registration form when verification mail is required. This module is a fork of the abandoned user_registrationpassword project on drupal.org.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=7.4",
+	"drupal/core": "^9.3"
+    }
+}
